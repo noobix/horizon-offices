@@ -1,0 +1,21 @@
+.navbar{
+	background-color: orange;
+	height: 35px;
+}
+.carousel{
+	background-color: lightblue;
+	height: 300px;
+	margin-bottom: 20px;
+}
+.thumbnail{
+	background-color: green;
+	height: 300px;
+	border: solid 10px white;
+	color: white;
+}
+.footer{
+	background-color: blue;
+	height: 100px;
+	margin-top: 20px;
+	color: white;
+}
